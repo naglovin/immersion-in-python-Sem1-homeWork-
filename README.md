@@ -9,5 +9,5 @@
 
 Для генерации случайного числа используйте код:
 
-from random import randint
-num = randint(LOWER_LIMIT, UPPER_LIMIT)
+- from random import randint
+- num = randint(LOWER_LIMIT, UPPER_LIMIT)

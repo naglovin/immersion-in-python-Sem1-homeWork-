@@ -8,6 +8,7 @@
 a = int(input("Введите сторону a: "))
 b = int(input("Введите сторону b: "))
 c = int(input("Введите сторону с: "))
+
 if a < b + c and b < c + a and c < a + b:
     print("Треугольник существует")
     if a == b and b == c and c == a:
